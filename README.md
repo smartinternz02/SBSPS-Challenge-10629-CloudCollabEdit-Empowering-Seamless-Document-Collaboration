@@ -11,7 +11,7 @@ The Cloud Seamless Document Collaboration project complies with the requirements
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/your-username/skillhub.git</code>
+        <code>git clone https://github.com/smartinternz02/SBSPS-Challenge-10629-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/edit/main/README.md
         <li>Navigate to the project directory:</li>
         <code>cd skillhub</code>
         <li>Create a virtual environment (optional but recommended):</li>
