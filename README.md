@@ -1,7 +1,10 @@
-<h1>TALENTTRAX- Learn and Explore for Free</h1>
+<h1>Empowering Seamless Document Collaborationz</h1>
  <img src="static/images/logo.svg" width="350" title="hover text">
     <h2>Introduction</h2>
-    <p>In the wake of economic recessions, job losses have become a common concern, often due to a lack of skills that meet the demands of multinational companies. Many individuals are eager to acquire new skills to secure better job opportunities, but they often face financial barriers when seeking relevant courses. SkillHub is the solution to these challenges, offering a one-stop platform for free, accessible learning. We prioritize inclusivity by providing courses in multiple languages, ensuring that people from diverse backgrounds can access the knowledge they seek.</p>
+    <p>Collaboration has evolved into being a crucial aspect of effective work processes in the fast-paced digital world of today. There has never been a greater demand for seamless document collaboration than there is now that remote work and geographically scattered teams are becoming increasingly common. Emailing attachments back and forth is a common traditional way of document sharing that frequently results in version control problems, muddle, and inefficiency. Our project intends to provide a Cloud Seamless Document Collaboration platform in order to overcome these issues.
+Regardless of where they are physically located, users will be able to work together to collaboratively generate, edit, review, and manage documents in real-time. The platform will provide a rich set of tools that improve collaboration, expedite workflows, and guarantee version consistency by utilising the power of cloud computing. While retaining data security and accessibility, users will be able to collaborate on the same document at the same time, track changes, and interact within the platform.
+The Cloud Seamless Document Collaboration project complies with the requirements for adaptability, effectiveness, and accessibility of the contemporary workplace. The platform will enable teams to collaborate without interruption, removing the constraints of conventional document sharing techniques. This will increase output, decrease errors, and improve document management.
+</p>
     <h2>Background</h2>
     <p>SkillHub is built using a robust technical stack, including HTML, CSS, Bootstrap, Django, SQLite, and Docker. These technologies enable us to create an efficient and user-friendly website for seamless learning and exploration.</p>
     <h2>Getting Started</h2>
